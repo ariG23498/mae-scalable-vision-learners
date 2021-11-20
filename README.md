@@ -25,7 +25,7 @@ an eye out :)
 
 ## Acknowledgements
 
-* Xinlei Chen (one of the authors of the original paper)
+* [Xinlei Chen](http://xinleic.xyz/) (one of the authors of the original paper)
 * [Google Developers Experts Program](https://developers.google.com/programs/experts/)
 * [JarvisLabs](https://jarvislabs.ai/) for providing credits to perform extensive experimentation on A100 GPUs.
 
