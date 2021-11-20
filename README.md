@@ -12,7 +12,7 @@ Our main objective is to present the core idea of the proposed method in a minim
 <div align="center">
   <img src=assets/mae.png/><br>
   <small><a href=https://arxiv.org/abs/2111.06377>Masked Autoencoders Are Scalable Vision Learners</a></small>
-</div>
+</div><br>
 
 
 With just **100 epochs** of pre-training and a fairly lightweight Autoencoder architecture we achieve **43.57%** accuracy
