@@ -9,9 +9,11 @@ method is  available in [`mae-pretraining.ipynb`](https://github.com/ariG23498/m
 notebook. It includes evaluation with **linear probing** as well. Furthermore, the notebook can be fully executed on Google Colab.
 Our main objective is to present the core idea of the proposed method in a minimal and readable manner.
 
-![masked autoencdoer architecture](assets/mae.png)
+<div align="center">
+  <img src=assets/mae.png/><br>
+  <small><a href=https://arxiv.org/abs/2111.06377>Masked Autoencoders Are Scalable Vision Learners</a></small>
+</div>
 
-*Source: [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377.)*
 
 With just **100 epochs** of pre-training and a fairly lightweight Autoencoder architecture we achieve **43.57%** accuracy
 with linear probing on the **CIFAR-10** dataset. Our training logs and encoder weights are available inside the
