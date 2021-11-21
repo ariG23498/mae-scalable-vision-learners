@@ -30,7 +30,7 @@ with linear-probing._  Below we present some more results:
 | Encoder & decoder layers: 6 & 2<br>Batch size: 256 | 0.75 | 48.16% | [Link](https://github.com/ariG23498/mae-scalable-vision-learners/blob/master/assets/48_16.zip) |
 
 <sup> LP denotes linear-probing. Config is mostly based on what we define in the hyperparameters
-section of this notebook: [`mae-pretraining.ipynb`](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb).</sup>
+section of this notebook: [`mae-pretraining.ipynb`](https://colab.research.google.com/github/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb).</sup>
 
 ## Acknowledgements
 
