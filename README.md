@@ -14,7 +14,7 @@ Our main objective is to present the core idea of the proposed method in a minim
 </div><br>
 
 
-With just **100 epochs** of pre-training and a fairly lightweight and asymmetric Autoencoder architecture we achieve **46.85%** accuracy
+With just **100 epochs** of pre-training and a fairly lightweight and asymmetric Autoencoder architecture we achieve **48.16%** accuracy
 with linear probing on the **CIFAR-10** dataset. Our training logs and encoder weights are released in [`Weights and Logs`](https://github.com/ariG23498/mae-scalable-vision-learners/releases/tag/v1.0.0). 
 For comparison, we took the encoder architecture and trained it from scratch (refer to [`regular-classification.ipynb`](https://github.com/ariG23498/mae-scalable-vision-learners/blob/master/regular-classification.ipynb)) in a fully supervised manner. This gave us ~76% test top-1 accuracy.
 
