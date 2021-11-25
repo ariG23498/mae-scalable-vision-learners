@@ -1,7 +1,7 @@
 # Masked Autoencoders Are Scalable Vision Learners
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb) [![](https://img.shields.io/badge/blog-keras.io-%23d00000)](https://keras.io/examples/vision/masked_image_modeling/)
 
 
 A TensorFlow implementation of Masked Autoencoders Are Scalable Vision Learners [1]. Our implementation of the proposed method is  available in
