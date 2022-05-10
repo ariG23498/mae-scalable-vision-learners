@@ -5,9 +5,7 @@
 
 
 A TensorFlow implementation of Masked Autoencoders Are Scalable Vision Learners [1]. Our implementation of the proposed method is  available in
-[`mae-pretraining.ipynb`](https://github.com/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb) notebook. It includes evaluation with **linear probing** as well. Furthermore, the notebook can be fully executed on Google Colab.
-Our main objective is to present the core idea of the proposed method in a minimal and readable manner. We have also [prepared a blog](https://keras.io/examples/vision/masked_image_modeling/) for getting
-started with Masked Autoencoder easily. 
+[`mae-pretraining.ipynb`](https://github.com/ariG23498/mae-scalable-vision-learners/blob/master/mae-pretraining.ipynb) notebook. It includes evaluation with **linear probing** as well. Furthermore, the notebook can be fully executed on Google Colab. Our main objective is to present the core idea of the proposed method in a minimal and readable manner. We have also [prepared a blog](https://keras.io/examples/vision/masked_image_modeling/) for getting started with Masked Autoencoder easily. 
 
 <div align="center">
   <img src=assets/mae.png/><br>
@@ -31,6 +29,10 @@ with linear-probing._  Below we present some more results:
 
 <sup>LP denotes linear-probing. Config is mostly based on what we define in the hyperparameters
 section of this notebook: `mae-pretraining.ipynb`.</sup>
+
+## Notes
+
+* This project received the [Google OSS Expert Prize](https://www.kaggle.com/general/316181) (March 2022).
 
 ## Acknowledgements
 
